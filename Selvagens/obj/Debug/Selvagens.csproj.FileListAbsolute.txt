@@ -1,0 +1,7 @@
+C:\Users\mathi\OneDrive\Documentos\Visual Studio 2017\Projects\Selvagens\Selvagens\bin\Debug\Selvagens.exe.config
+C:\Users\mathi\OneDrive\Documentos\Visual Studio 2017\Projects\Selvagens\Selvagens\bin\Debug\Selvagens.exe
+C:\Users\mathi\OneDrive\Documentos\Visual Studio 2017\Projects\Selvagens\Selvagens\bin\Debug\Selvagens.pdb
+C:\Users\mathi\OneDrive\Documentos\Visual Studio 2017\Projects\Selvagens\Selvagens\obj\Debug\Selvagens.csprojResolveAssemblyReference.cache
+C:\Users\mathi\OneDrive\Documentos\Visual Studio 2017\Projects\Selvagens\Selvagens\obj\Debug\Selvagens.csproj.CoreCompileInputs.cache
+C:\Users\mathi\OneDrive\Documentos\Visual Studio 2017\Projects\Selvagens\Selvagens\obj\Debug\Selvagens.exe
+C:\Users\mathi\OneDrive\Documentos\Visual Studio 2017\Projects\Selvagens\Selvagens\obj\Debug\Selvagens.pdb
