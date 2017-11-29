@@ -72,9 +72,10 @@ namespace Selvagens
             }
 
             this.contador -= 1;
-            Console.WriteLine("Consumido: [" + this.contador.ToString() + "], por " + " Selvagem " + numeroSelvagem.ToString());
+            Console.WriteLine("Consumido: [" + this.contador.ToString() + "], por " + " Selvagem " + numeroSelvagem);
+
             this.mutex.Wait();
-            this.fila.Remove(this.fila.Count - 1);
+            this.fila.Remove(numeroSelvagem);
             this.mutex.Release();
 
             lock (this.selvagem)
